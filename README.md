@@ -71,7 +71,7 @@ All database queries use **parameterized statements** (via placeholders) rather 
 
 ### 1. Clone the repository
 git clone: https://github.com/786ghulamdastageer/fullstack-project-3-decode-labs.git
-    cd fullstack-project-3-decode-labs
+                                                                                                                                                                 cd fullstack-project-3-decode-labs
 
 ### 2. Install dependencies
 pip install flask waitress
