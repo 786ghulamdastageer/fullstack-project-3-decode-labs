@@ -1,10 +1,10 @@
 # Product Inventory Management System
 
-A full-stack web application for managing products, categories, and suppliers, built as part of the DecodeLabs Full Stack Development Internship — Project 3: Database Integration.
+A full-stack web application for managing products, categories, and suppliers, built as part of the DecodeLabs Full Stack Development Internship.
 
 ## Scenario
 
-A small retail store needs a system to track its product inventory, organize items by category, and manage supplier relationships. Staff should be able to add new products, view current stock, update product details, and remove discontinued items — all through a simple, database-backed web dashboard.
+A small retail store needs a system to track its product inventory, organize items by category, and manage supplier relationships. Staff should be able to add new products, view current stock, update product details, and remove discontinued items all through a simple, database-backed web dashboard.
 
 This project simulates that requirement by implementing a complete CRUD (Create, Read, Update, Delete) system connected to a relational database, following REST API conventions and enforcing data integrity at the schema level.
 
@@ -70,8 +70,8 @@ All database queries use **parameterized statements** (via placeholders) rather 
 ##  How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/786ghulamdastageer/fullstack-project-3-decode-labs.git
-cd fullstack-project-3-decode-labs
+git clone: https://github.com/786ghulamdastageer/fullstack-project-3-decode-labs.git
+    cd fullstack-project-3-decode-labs
 
 ### 2. Install dependencies
 pip install flask waitress
